@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dataset>
+    <ROLES ID="1" NAME="first"/>
+    <ROLES ID="2" NAME="second"/>
+    <USERS id="1" login="First" password="Pwd" email="first@email.com"
+    role_id="1"/>
+    <USERS id="2" login="Second" password="Pwd" email="second@email.com"
+    role_id="1"/>
+    <USERS id="3" login="Third" password="Pwd" email="third@email.com"
+    role_id="2"/>
+</dataset>

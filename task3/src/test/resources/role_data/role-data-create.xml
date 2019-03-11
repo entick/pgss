@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dataset>
+    <ROLES ID="1" NAME="first"/>
+    <ROLES ID="2" NAME="second"/>
+    <ROLES ID="3" NAME="third"/>
+    <ROLES ID="4" NAME="fourth"/>
+    <USERS></USERS>
+</dataset>
